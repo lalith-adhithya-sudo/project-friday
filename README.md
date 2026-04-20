@@ -1,7 +1,9 @@
 # project-friday
 AI-powered virtual assistant inspired by Iron Man’s FRIDAY, capable of voice interaction, task automation, and intelligent responses.
 
+
 ⚠️ This project is currently under development. This repository showcases the initial prototype and architecture of the FRIDAY AI assistant inspired by Iron Man.
+
 
 # 🤖 FRIDAY - Intelligent AI Assistant System
 
