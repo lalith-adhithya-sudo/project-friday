@@ -12,11 +12,8 @@ The system is designed to perform intelligent tasks such as voice interaction, a
 
 ## 🎯 Features
 
-* 🎤 Voice command recognition
-* 🧠 Smart response system
-* ⚙️ Task automation
-* 🔒 Secure interaction handling
-* 📊 Expandable architecture for future AI modules
+*  Voice command recognition
+*  Real time NEWS updates
 
 ## 🛠️ Tech Stack
 
