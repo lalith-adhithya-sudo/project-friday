@@ -34,7 +34,9 @@ The system is designed to perform intelligent tasks such as voice interaction, a
 
 ## 📸 Demonstration
 
-(Add screenshots or demo clips here)
+<img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/dc9a23b9-af0d-4665-9c4f-7af6e4ab61a0" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/acd45f37-df95-44c8-85f4-66bf86b6cc30" />
+
 
 ## 🔮 Future Enhancements
 
@@ -47,4 +49,4 @@ The system is designed to perform intelligent tasks such as voice interaction, a
 
 Your Name
 
-> "Even the smartest systems start with a single command."
+> "V.Lalith Adhithya , R.Karthik"
